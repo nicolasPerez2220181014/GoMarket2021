@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GoMarket,</string>
+    <string name="usuario">usuario</string>
+    <string name="Clave">clave</string>
+    <string name="ActualizarGestor">ActualizarGestor</string>
+    <string name="id">id</string>
+    <string name="Nit">Nit</string>
+    <string name="Ubicacion">Ubicacion</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="Url">Url</string>
+    <string name="Horario">Horario</string>
+    <string name="Actualizar">Actualizar</string>
+    <string name="buscar">Buscar</string>
+    <string name="Nombre">Nombew</string>
+    <string name="Agregae">Agregar</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Buscar">Buscar</string>
+</resources>
